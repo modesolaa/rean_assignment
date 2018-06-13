@@ -1,5 +1,5 @@
 # This is the default ansible 'hosts' file.
-#
+# Showing them the way to go
 # It should live in /etc/ansible/hosts
 #
 #   - Comments begin with the '#' character
