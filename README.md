@@ -1,4 +1,4 @@
-# We're using this file to demostratet git push/pull and Branching
+# We're using this file to demostrate git push/pull and branching
 Approach:
 
 1.	I used vagrant to spin up a centos 7 virtual machine
